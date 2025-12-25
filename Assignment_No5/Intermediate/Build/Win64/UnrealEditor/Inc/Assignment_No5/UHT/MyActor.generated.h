@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ASSIGNMENT_NO5_MyActor_generated_h
 
-#define FID_03_GameProgramming_06_GitHub_NBC_Assignment_No5_Assignment_No5_Source_Assignment_No5_MyActor_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_03_GameProgramming_06_GitHub_NBC_Assignment_No5_Assignment_No5_Source_Assignment_No5_MyActor_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMyActor(); \
 	friend struct Z_Construct_UClass_AMyActor_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(AMyActor)
 
 
-#define FID_03_GameProgramming_06_GitHub_NBC_Assignment_No5_Assignment_No5_Source_Assignment_No5_MyActor_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_03_GameProgramming_06_GitHub_NBC_Assignment_No5_Assignment_No5_Source_Assignment_No5_MyActor_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	AMyActor(AMyActor&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~AMyActor();
 
 
-#define FID_03_GameProgramming_06_GitHub_NBC_Assignment_No5_Assignment_No5_Source_Assignment_No5_MyActor_h_9_PROLOG
-#define FID_03_GameProgramming_06_GitHub_NBC_Assignment_No5_Assignment_No5_Source_Assignment_No5_MyActor_h_12_GENERATED_BODY \
+#define FID_03_GameProgramming_06_GitHub_NBC_Assignment_No5_Assignment_No5_Source_Assignment_No5_MyActor_h_13_PROLOG
+#define FID_03_GameProgramming_06_GitHub_NBC_Assignment_No5_Assignment_No5_Source_Assignment_No5_MyActor_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_03_GameProgramming_06_GitHub_NBC_Assignment_No5_Assignment_No5_Source_Assignment_No5_MyActor_h_12_INCLASS_NO_PURE_DECLS \
-	FID_03_GameProgramming_06_GitHub_NBC_Assignment_No5_Assignment_No5_Source_Assignment_No5_MyActor_h_12_ENHANCED_CONSTRUCTORS \
+	FID_03_GameProgramming_06_GitHub_NBC_Assignment_No5_Assignment_No5_Source_Assignment_No5_MyActor_h_16_INCLASS_NO_PURE_DECLS \
+	FID_03_GameProgramming_06_GitHub_NBC_Assignment_No5_Assignment_No5_Source_Assignment_No5_MyActor_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

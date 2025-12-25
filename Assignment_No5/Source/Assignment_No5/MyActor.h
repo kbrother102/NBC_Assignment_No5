@@ -4,6 +4,10 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "InputActionValue.h"
+
+
+
 #include "MyActor.generated.h"
 
 UCLASS()
@@ -14,7 +18,6 @@ class ASSIGNMENT_NO5_API AMyActor : public AActor
 public:	
 	// Sets default values for this actor's properties
 	AMyActor();
-
 	virtual void UDTurn();
 	virtual void UDMove();
 

@@ -7,6 +7,8 @@
         "Includes": [
             "d:\\03_gameprogramming\\06_github\\nbc_assignment_no5\\assignment_no5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\assignment_no5\\definitions.assignment_no5.h",
             "d:\\03_gameprogramming\\06_github\\nbc_assignment_no5\\assignment_no5\\source\\assignment_no5\\myactor.h",
+            "d:\\00_programs\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "d:\\00_programs\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
             "d:\\03_gameprogramming\\06_github\\nbc_assignment_no5\\assignment_no5\\intermediate\\build\\win64\\unrealeditor\\inc\\assignment_no5\\uht\\myactor.generated.h",
             "d:\\00_programs\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
             "d:\\00_programs\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmathlibrary.generated.h",

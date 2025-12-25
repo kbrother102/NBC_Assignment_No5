@@ -19,4 +19,7 @@
   <Compile Include="..\..\..\..\Source\Assignment_No5Editor.Target.cs"><Link>Source\Assignment_No5Editor.Target.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\Assignment_No5\Assignment_No5.Build.cs"><Link>Source\Assignment_No5\Assignment_No5.Build.cs</Link></Compile>
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Build" Version="17.10.46" />
+  </ItemGroup>
 </Project>
