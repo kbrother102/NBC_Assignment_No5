@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\03_gameprogramming\\06_github\\nbc_assignment_no5\\assignment_no5\\intermediate\\build\\win64\\unrealeditor\\inc\\assignment_no5\\uht\\myactor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\03_gameprogramming\\06_github\\nbc_assignment_no5\\assignment_no5\\intermediate\\build\\win64\\x64\\assignment_no5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\03_gameprogramming\\06_github\\nbc_assignment_no5\\assignment_no5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\assignment_no5\\definitions.assignment_no5.h",
+            "d:\\03_gameprogramming\\06_github\\nbc_assignment_no5\\assignment_no5\\source\\assignment_no5\\myactor.h",
+            "d:\\03_gameprogramming\\06_github\\nbc_assignment_no5\\assignment_no5\\intermediate\\build\\win64\\unrealeditor\\inc\\assignment_no5\\uht\\myactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
