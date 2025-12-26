@@ -20,6 +20,10 @@ public:
 	AMyActor();
 	virtual void UDTurn();
 	virtual void UDMove();
+	virtual void RandomEvent();
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Spawning")
+	TSubclassOf<AActor> MySpawnClass;
 
 protected:
 	// Called when the game starts or when spawned
@@ -28,5 +32,13 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-
+	
+private:
+	double distance_ = 0;
+	double totaldist_ = 0;
+	int tpcnt_ = 0;
+	int evcnt_ = 0;
+	FVector Vec1_ = GetActorLocation();
+	double timer_=0;
+	int timecnt_ = 0;
 };

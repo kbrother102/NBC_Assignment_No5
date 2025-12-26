@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Assignment_No5-0023.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\03_GameProgramming\06_GitHub\NBC_Assignment_No5\Assignment_No5\Intermediate\Build\Win64\x64\Assignment_No5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\03_GameProgramming\06_GitHub\NBC_Assignment_No5\Assignment_No5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Assignment_No5\Assignment_No5.init.gen.cpp.obj"
+"D:\03_GameProgramming\06_GitHub\NBC_Assignment_No5\Assignment_No5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Assignment_No5\MyActor.gen.cpp.obj"
+"D:\03_GameProgramming\06_GitHub\NBC_Assignment_No5\Assignment_No5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Assignment_No5\Assignment_No5.cpp.obj"
+"D:\03_GameProgramming\06_GitHub\NBC_Assignment_No5\Assignment_No5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Assignment_No5\PerModuleInline.gen.cpp.obj"
+"D:\03_GameProgramming\06_GitHub\NBC_Assignment_No5\Assignment_No5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Assignment_No5\MyActor.cpp.obj"
+"D:\03_GameProgramming\06_GitHub\NBC_Assignment_No5\Assignment_No5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Assignment_No5\Default.rc2.res"
+/OUT:"D:\03_GameProgramming\06_GitHub\NBC_Assignment_No5\Assignment_No5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Assignment_No5\UnrealEditor-Assignment_No5-0023.lib"
